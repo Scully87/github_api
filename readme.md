@@ -10,9 +10,13 @@ developer API provided by Github themselves.</h3>
 <h4>Within the page you can type in Github User names and the API will fetch and 
 display the relevant data correlating to that specific user</h4>
 
-<p>The page was made using JQuery over the html layout, css was used to style the it.
-Sinatra gem was used as shown in the 'Gemfile' to locally host and then eventually
-deploy the application to Heroku</p>
+###Technologies Used:
+
+  + HTML
+  + CSS
+  + Javascript
+  + Sinatra
+  + Github API
 
 
 
