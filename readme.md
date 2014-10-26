@@ -15,6 +15,7 @@ display the relevant data correlating to that specific user</h4>
   + HTML
   + CSS
   + Javascript
+  + JQuery
   + Sinatra
   + Github API
 
