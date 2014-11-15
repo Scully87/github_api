@@ -1,14 +1,11 @@
 <div align="center"><h1>Github Profiles API</h1>
-
 link to page: <a href=https://salty-mountain-4898.herokuapp.com/>
 	<img src="public/img/images.jpeg" width="50"></a><br> </div>
 ===============================
 
-###Created a simple page to show the use of Github user profiles through the
-developer API
+###Created a simple page to show the use of Github user profiles through the developer API
 
-####Within the page you can type in Github User names and the API will fetch and
-display the relevant data correlating to that specific user
+####Within the page you can type in Github User names and the API will fetch and display the relevant data correlating to that specific user
 
 ####Technologies Used:
 
@@ -29,7 +26,7 @@ display the relevant data correlating to that specific user
 How to use
 ----------
 
-[Click Here](href=https://salty-mountain-4898.herokuapp.com/) for link to site
+[Click Here](https://salty-mountain-4898.herokuapp.com/) for link to site
 
 Clone the repository:
 ```shell
