@@ -3,7 +3,7 @@ link to page: <a href=https://salty-mountain-4898.herokuapp.com/>
 	<img src="public/img/images.jpeg" width="50"></a><br> </div>
 ===============================
 
-###Created a simple page to show the use of Github user profiles through the developer API
+####Created a simple page to show the use of Github user profiles through the developer API
 
 ####Within the page you can type in Github User names and the API will fetch and display the relevant data correlating to that specific user
 
@@ -21,7 +21,7 @@ link to page: <a href=https://salty-mountain-4898.herokuapp.com/>
   - [x] Create an input field for Github user name
   - [x] Create a viewable page styled with CSS
   - [x] Display Users Profile picture, Followers, Username
-  - [ ] Create functioning links for Users Email and Social
+  - [ ] Create functioning links for Users' Email and Social Media/blogs
 
 How to use
 ----------
