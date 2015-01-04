@@ -1,5 +1,5 @@
 <div align="center"><h1>Github Profiles API</h1>
-link to page: <a href=https://salty-mountain-4898.herokuapp.com/>
+link to page: <a href=https://github-api-.herokuapp.com/>
 	<img src="public/img/images.jpeg" width="50"></a><br> </div>
 ===============================
 
